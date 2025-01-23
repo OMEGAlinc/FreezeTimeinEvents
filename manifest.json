@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Freeze Time in Events",
+  "Author": "OMEGAlinc",
+  "Version": "1.0.0",
+  "Description": "Pauses time during cutscenes.",
+  "UniqueID": "OMEGAlinc.FreezeTimeinEvents",
+  "EntryDll": "FreezeTimeinEvents.dll",
+  "UpdateKeys": [ "Nexus:" ]
+}
